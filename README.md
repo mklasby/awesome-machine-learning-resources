@@ -42,7 +42,7 @@ This repository is a collection of resources for self-study of machine learning.
   * Walkthrough of papers and current AI topics
 * [Aleksa Gordic](https://www.youtube.com/@TheAIEpiphany)
   * Walkthrough of papers
-* [Lex Friedman](https://www.youtube.com/@lexfridman)
+* [Lex Fridman](https://www.youtube.com/@lexfridman)
   * First 100 episodes in particular have some great AI/ML focused podcasts. More recently, it's best to only select episodes featuring AI/ML experts. 
 
 ## Discord communities
